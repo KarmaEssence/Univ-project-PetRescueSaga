@@ -16,9 +16,8 @@ Ce document contient toutes les informations nécessaires au bon fonctionnement 
 ### Récupérer le projet :
 1. Cloner le répertoire :
    
-
-
-    git@github.com:KarmaEssence/Univ-project-PetRescueSaga.git
+    
+    https://github.com/KarmaEssence/Univ-project-PetRescueSaga.git
 
 ou
 
