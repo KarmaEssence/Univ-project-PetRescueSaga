@@ -1,4 +1,4 @@
-#Projet universitaire : PetRescueSaga
+# Projet universitaire : PetRescueSaga
 
 Ce document contient toutes les informations nécessaires au bon fonctionnement du projet.
 
@@ -13,8 +13,10 @@ Ce document contient toutes les informations nécessaires au bon fonctionnement 
 - Une option d'analyse d'un niveau.
 
 ## Usage :
-###Récupérer le projet :
+### Récupérer le projet :
 1. Cloner le répertoire :
+   
+
 
     git@github.com:KarmaEssence/Univ-project-PetRescueSaga.git
 
@@ -28,7 +30,7 @@ ou
     cd Univ-project-PetRescueSaga
 
 
-###Exécuter le projet :
+### Exécuter le projet :
 - 1ère possibilité :
   
 Compilation :
@@ -104,7 +106,7 @@ Couleurs que ne vous ne connaissez pas :
 - KarmaEssence
 - Holykanguru
 
-##Copyright :
+## Copyright :
 
 Les images de ce projet sont soumises à un droit de copyright par King et Rey Chan,
 nous n'utilisons que celle-ci dans le cadre de l'apprentissage universitaire.
