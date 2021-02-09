@@ -98,7 +98,21 @@ voici les couleurs à connaitre :
 
 
 - Pour l'interface graphique :
-Couleurs que ne vous ne connaissez pas : 
+
+  Rouge: Bloc Rouge
+  
+  Bleu: Bloc Bleu
+  
+  Jaune: Bloc Jaune
+  
+  Vert: Bloc Vert
+
+  Gris: Bloc abstrait
+
+  Noir: Bloc fixe
+
+  Rose: Animal
+
 
 ## Collaborateur :
 
